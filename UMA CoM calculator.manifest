@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Tom Gao",
+	"description":	{
+		"":	"Script that uses custom attributes to store mass, and calculate center of mass information without defining densities for every part."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
